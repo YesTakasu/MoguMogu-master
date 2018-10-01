@@ -184,5 +184,7 @@ public class MainActivity extends AppCompatActivity {
         }
     };
     System.out.println("wadataito");
+    System.out.println("wadataito");
+    System.out.println("wadataito");
 
 }
