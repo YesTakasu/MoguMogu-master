@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MoguMogu</string>
+    <string name="time">タイム：</string>
+    <string name="score">スコア：</string>
+    <string name="initial_score">0</string>
+    <string name="initial_time">30</string>
+    <string name="gameover">ゲームオーバー</string>
+    <string name="replay">タップでリプレイ</string>
+</resources>
